@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android and MERN stack development 
 - 🌱 I’m currently learning MERN stack development
 <!-- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --> -->
+- 📫 How to reach me ... --> 
 
 <!---
 ch-dharma-rao/ch-dharma-rao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ __ShopinAR - Augmented Reality based E-commerce Android App__
 
 
 
-<!-- ### Watch my contribution graph get eaten by the snake 🐍
+<!-- ### Watch my contribution graph get eaten by the snake 🐍-->
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg) -->
