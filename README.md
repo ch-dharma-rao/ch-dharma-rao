@@ -8,3 +8,10 @@
 ch-dharma-rao/ch-dharma-rao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+##My Project
+
+#ShopinAR
+
+|Welcome Screen                                 |Login and Signup                               |Home
+|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| <img src="/shopinar-demo-1.gif" width="270" />| <img src="/shopinar-demo-2.gif" width="270" />| <img src="/shopinar-demo-3.gif" width="270" />|
