@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## My Project :
 
-# * ShopinAR
+# ShopinAR
 
 |Welcome Screen                                 |Login and Signup                               |Home
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
