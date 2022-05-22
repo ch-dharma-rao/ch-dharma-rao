@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ch-dharma-rao
+- 👋 Hi, I’m Dharma
 - 👀 I’m interested in Android and MERN stack development 
 <!-- - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
