@@ -6,7 +6,7 @@
 - 🖥 A self-taught, passionate and fast-learner full-stack developer from India,🌍.
 -  👨‍🎓 I have completed my graduation in Computer Science. 
 - 👀 I’m interested in Android , Augmented Reality and MERN stack development.
-- 🌱 I’m currently learning MERN stack development.
+- 🌱 I’m currently learning MERN stack and AR development.
 - ⚡ Fun fact: I can solve Rubick cube under 90 seconds.
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --> 
