@@ -20,13 +20,16 @@ You can click the Preview link to take a look at your changes.
 --->
 ## My Projects :
 
-- <a target="_blank" href= "https://github.com/ch-dharma-rao/ShopinAR"> __ShopinAR - Augmented Reality based E-commerce Android App__ </a>
+- <a href= "https://github.com/ch-dharma-rao/ShopinAR" target="_blank"> __ShopinAR - Augmented Reality based E-commerce Android App__ </a>
 
 |Welcome Screen                                 |Login and Signup                               |Home                                           |Augmented Reality|
 |-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------|
 | <img src="https://github.com/ch-dharma-rao/ShopinAR/blob/main/shopinar-demo-1.gif" width="270" />| <img src="https://github.com/ch-dharma-rao/ShopinAR/blob/main/shopinar-demo-2.gif" width="270" />| <img src="https://github.com/ch-dharma-rao/ShopinAR/blob/main/shopinar-demo-3.gif" width="270" />| <img src="https://github.com/ch-dharma-rao/ShopinAR/blob/main/shopinar-demo-5.gif" width="270" />|
 
-- <a target="_blank" href= "https://github.com/ch-dharma-rao/Unity"> __Unity - Natural Disaster Survival App__ </a>
+
+
+
+- <a href= "https://github.com/ch-dharma-rao/Unity" target="_blank"> __Unity - Natural Disaster Survival App__ </a>
 
 |Welcome Screen           |Home                  |Login Screen           | Survival Guide         | First Aid              |Fracture
 |----------------------|-------------------------|-----------------------|------------------------|------------------------|-----------------------|
