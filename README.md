@@ -1,6 +1,6 @@
 <img width="250" align="right" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
-# CH Dharma Rao
+# <a href="https://ch-dharma-rao.netlify.app/">CH Dharma Rao</a>
 
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, My name is **Dharma**.
 - 🖥 A self-taught, passionate and fast-learner full-stack developer from India,🌍.
