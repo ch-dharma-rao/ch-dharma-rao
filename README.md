@@ -2,7 +2,7 @@
 
 # <a href="https://ch-dharma-rao.netlify.app/">CH Dharma Rao</a>
 
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, My name is **Dharma**.
+- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hi there, My name is **Dharma**.
 - 🖥 A self-taught, passionate and fast-learner full-stack developer from India,🌍.
 -  👨‍🎓 I have completed my graduation in Computer Science. 
 - 👀 I’m interested in Android , Augmented Reality and MERN stack development.
