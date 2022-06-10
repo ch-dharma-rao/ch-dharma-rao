@@ -41,11 +41,11 @@ You can click the Preview link to take a look at your changes.
 | <img src="https://github.com/ch-dharma-rao/Unity/blob/main/demo/unity-demo-5.jpg" width="270" />| <img src="https://github.com/ch-dharma-rao/Unity/blob/main/demo/unity-demo-6.jpg" width="270" />| <img src="https://github.com/ch-dharma-rao/Unity/blob/main/demo/unity-demo-3.jpg" width="270" />|
  -->
 
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api/?username=ch-dharma-rao&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7"> -->
+
+<img src="https://github-readme-stats.vercel.app/api/?username=ch-dharma-rao&show_icons=true&title_color=#454441&icon_color=79ff97&text_color=#454441&bg_color=#dedcd7"> 
 
 
-<!-- ### Watch my contribution graph get eaten by the snake 🐍-->
+<!-- ### Watch my contribution graph get eaten by the snake 🐍 -->
 
 <!-- platane/snk works, it just puts it on a new branch -->
-<!-- ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![ch-dharma-rao snake gif](https://github.com/ch-dharma-rao/ch-dharma-rao/blob/output/github-contribution-grid-snake.svg)  -->
